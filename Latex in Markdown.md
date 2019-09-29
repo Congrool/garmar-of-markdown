@@ -24,7 +24,7 @@
 
 ### 大尺寸数学运算符
 
-![operator](./img/img\operator.gif)
+![operator](./img/operator.gif)
 
 [更多运算符](http://www.mohu.org/info/symbols/symbols.html)
 
