@@ -18,13 +18,13 @@
 
 
 
-![Binary_Relation_Operator](E:\Github\garmar-of-markdown\img\Binary_Relation_Operator.gif)
+![Binary_Relation_Operator](./img/Binary_Relation_Operator.gif)
 
 ---
 
 ### 大尺寸数学运算符
 
-![operator](E:\Github\garmar-of-markdown\img\operator.gif)
+![operator](./img/img\operator.gif)
 
 [更多运算符](http://www.mohu.org/info/symbols/symbols.html)
 
